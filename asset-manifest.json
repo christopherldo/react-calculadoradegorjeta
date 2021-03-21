@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-calculadoradegorjeta/static/css/main.ed618c62.chunk.css",
+    "main.js": "/react-calculadoradegorjeta/static/js/main.a7c5b84d.chunk.js",
+    "main.js.map": "/react-calculadoradegorjeta/static/js/main.a7c5b84d.chunk.js.map",
+    "runtime-main.js": "/react-calculadoradegorjeta/static/js/runtime-main.b3f490e8.js",
+    "runtime-main.js.map": "/react-calculadoradegorjeta/static/js/runtime-main.b3f490e8.js.map",
+    "static/js/2.a8cb7293.chunk.js": "/react-calculadoradegorjeta/static/js/2.a8cb7293.chunk.js",
+    "static/js/2.a8cb7293.chunk.js.map": "/react-calculadoradegorjeta/static/js/2.a8cb7293.chunk.js.map",
+    "index.html": "/react-calculadoradegorjeta/index.html",
+    "static/css/main.ed618c62.chunk.css.map": "/react-calculadoradegorjeta/static/css/main.ed618c62.chunk.css.map",
+    "static/js/2.a8cb7293.chunk.js.LICENSE.txt": "/react-calculadoradegorjeta/static/js/2.a8cb7293.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3f490e8.js",
+    "static/js/2.a8cb7293.chunk.js",
+    "static/css/main.ed618c62.chunk.css",
+    "static/js/main.a7c5b84d.chunk.js"
+  ]
+}
